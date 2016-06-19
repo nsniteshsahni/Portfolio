@@ -1,0 +1,14 @@
+<title>Nitesh Sahni</title>
+<link rel="shortcut icon" href="Images/534574141_a01a94dce6.jpg" type="image/x-icon">
+<link rel="icon" href="Images/534574141_a01a94dce6.jpg" type="image/x-icon">
+<meta name="description" content="Freelancer - Start Bootstrap Theme">
+<meta name="keywords" content="Freelancer - Start Bootstrap Theme">
+<meta name="author" content="Nitesh Sahni">
+
+<meta property="og:url" content="http://startbootstrap.com/templates/freelancer/" />
+<meta property="og:site_name" content="Freelancer - Start Bootstrap Theme" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Freelancer - Start Bootstrap Theme" />
+<meta property="og:image" content="http://startbootstrap.com/templates/freelancer/img/profile.png" />
+<meta property="og:description" content="Open Graph Description" />
+<meta property="fb:admins" content="Facebook Admin" />
