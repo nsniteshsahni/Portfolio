@@ -57,13 +57,22 @@
         </div>
         <div class="row">
             <div class="col-sm-4 portfolio-item">
+    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
+        <div class="caption">
+            <div class="caption-content">
+                <i class="fa fa-search-plus fa-3x"></i>
+            </div>
+        </div>
+        <img src="Images/portfolio/result.png" class="img-responsive" alt="">
+    </a>
+</div><div class="col-sm-4 portfolio-item">
     <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
         <div class="caption">
             <div class="caption-content">
                 <i class="fa fa-search-plus fa-3x"></i>
             </div>
         </div>
-        <img src="" class="img-responsive" alt="">
+        <img src="Images/portfolio/counselling.png" class="img-responsive" alt="">
     </a>
 </div><div class="col-sm-4 portfolio-item">
     <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
@@ -165,19 +174,52 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
                     <div class="modal-body">
-                        <h2></h2>
+                        <h2>Web Allocation of Seats for Technical Education</h2>
                         <hr class="star-primary">
-                        <img src="" class="img-responsive img-centered" alt="">
-                        <p></p>
+                        <img src="Images/portfolio/counselling.png" class="img-responsive img-centered" alt="">
+                        <p><p>Website named 'Web Allocation of Seats for Technical Education' made in ASP.NET which does online counselling for students seeking admission in engineering colleges.<strong></strong><em></em></p></p>
                         <ul class="list-inline item-details">
                             <li>Client:
-                                <strong><a href="" target="_blank"></a></strong>
+                                <strong><a href="http://onlinecounselling.azurewebsites.net/Home.aspx" target="_blank">Summer Training</a></strong>
                             </li>
                             <li>Date:
-                                <strong><a href="" target="_blank"></a></strong>
+                                <strong><a href="http://onlinecounselling.azurewebsites.net/Home.aspx" target="_blank"></a></strong>
                             </li>
                             <li>Service:
-                                <strong><a href="" target="_blank"></a></strong>
+                                <strong><a href="http://onlinecounselling.azurewebsites.net/Home.aspx" target="_blank">Web Application</a></strong>
+                            </li>
+                        </ul>
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <h2>ResultPy</h2>
+                        <hr class="star-primary">
+                        <img src="Images/portfolio/result.png" class="img-responsive img-centered" alt="">
+                        <p><p>A python mini project for checking IPU result and notifying user by tweeting about  on twitter and playing music on VLC media player of user's Desktop when result comes.<strong></strong><em></em></p></p>
+                        <ul class="list-inline item-details">
+                            <li>Client:
+                                <strong><a href="http://github.com/nsniteshsahni/ResultPy" target="_blank">Mini Project</a></strong>
+                            </li>
+                            <li>Date:
+                                <strong><a href="http://github.com/nsniteshsahni/ResultPy" target="_blank"></a></strong>
+                            </li>
+                            <li>Service:
+                                <strong><a href="http://github.com/nsniteshsahni/ResultPy" target="_blank">Python,Automation</a></strong>
                             </li>
                         </ul>
                         <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
@@ -283,7 +325,9 @@
                     </ul>
                 </div>
                 <div class="footer-col col-md-4">
-                    <p><strong>This is a Bootstrap templete used as frontend,The backend admin portal&nbsp; is developed in ASP.NET.For source code,visit my github profile</strong></p>
+                    <p><strong>If contact me doesn't work,ping me&nbsp;@ nsniteshsahni@hotmail.com</strong></p>
+<p>Bootstrap is used as frontend,The backend admin portal is developed in ASP.NET.For source code,visit my github profile.</p>
+<p><strong></strong><em></em><strong></strong></p>
                 </div>
             </div>
         </div>
@@ -292,12 +336,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-3">
-					Designed By <a href="http://www.startbootstrap.com" target="_blank">Bootstrap Development Team</a>
+					Download Resume <a href="http://nsportfolio.azurewebsites.net/" target="_blank">Click Here</a>
 				</div>
 				<div class="col-lg-3">
 					Developed By <a href="http://nsportfolio.azurewebsites.net/" target="_blank">Nitesh Sahni</a>
 				</div>
-                <div class="col-lg-6 copyright">
+				<div class="col-lg-6 copyright">
                     Copyright &copy; Nitesh Sahni
                 </div>
             </div>
