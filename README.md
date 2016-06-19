@@ -3,7 +3,7 @@ A compact collaboration of all my work
 
 # Frameworks
 - Frontend is developed using Bootstrap,HTML and CSS
-- Backend in in ASP.NET,The complete admin panel for editing,adding data
+- Backend is in ASP.NET,The complete admin panel for editing,adding data
 
 # Demo
 visit http://nsportfolio.azurewebistes.net and explore it
