@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 using System.Collections;
 using System.Collections.Generic;
 using System.Configuration;
@@ -105,17 +106,21 @@ public static class Util
     {
         try
         {
-            MailMessage Msg = new MailMessage();
-            SmtpClient SC = new SmtpClient();
-            Msg.From = new MailAddress(EmailFrom);
-            string[] Arr = EmailTo.Split(',');
-            foreach (string mailto in Arr)
-                Msg.To.Add(new MailAddress(mailto));
-            Msg.Subject = EmailSubject;
-            Msg.IsBodyHtml = true;
-            Msg.Body = EmailBody;
-            SC.EnableSsl = true;
-            SC.Send(Msg);
+            
+            SmtpClient client = new SmtpClient();
+            client.Port = 587;
+            client.Host = "smtp.gmail.com";
+            client.EnableSsl = true;
+            client.Timeout = 10000;
+            client.DeliveryMethod = SmtpDeliveryMethod.Network;
+            client.UseDefaultCredentials = false;
+            client.Credentials = new System.Net.NetworkCredential("hackingfever1995@gmail.com", "26perkey20");
+
+            MailMessage mm = new MailMessage(EmailTo,"nsniteshsahni.007@gmail.com",EmailSubject,"Email id: " + EmailFrom + "\n\n" + "Message: " + EmailBody);
+            mm.BodyEncoding = UTF8Encoding.UTF8;
+            mm.DeliveryNotificationOptions = DeliveryNotificationOptions.OnFailure;
+
+            client.Send(mm);
         }
         catch (Exception ex)
         {
