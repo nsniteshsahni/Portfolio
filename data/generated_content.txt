@@ -144,7 +144,7 @@
                         <h2>telepy IoT bot</h2>
                         <hr class="star-primary">
                         <img src="Images/Portfolio/cake.png" class="img-responsive img-centered" alt="">
-                        <p><p>A telegram chat bot hosted on Raspberry pi for automation of it. User can interact with it in order to fetch data from Web,Cloud and show it to user in telegram chat.The feature I am currently working on is adding and downloading torrents remotely.</p></p>
+                        <p><p>A telegram chat bot hosted on Raspberry pi for automation of it. User can interact with it in order to fetch data from cloud,Send remote commands,etc. and get results.The feature I am currently working on is adding and downloading torrents remotely.</p></p>
                         <ul class="list-inline item-details">
                             <li>Client:
                                 <strong><a href="http://github.com/nsniteshsahni/telepy" target="_blank">Major Project</a></strong>
@@ -239,7 +239,7 @@
         </div>
         <div class="row">
             <div class="col-lg-6"><p>Always try to learn hence either "go" way or "no" way.</p>
-<p>Love puzzles and problem solving and try to minimize the effort but get the result out.Convert caffeine into Code,keep myself informed with latest tech trends and happenings around the world.Stay self motivated and hence great to work with.</p></div><div class="col-lg-6"><p>Did a bit of competitive programming few months ago and still putting my brain into it. Visit my HackerEarth profile @ https://www.hackerearth.com/@nsniteshsahni/activity/hackerearth/</p>
+<p>Love puzzles and problem solving and try to minimize the effort but get the result out.Convert caffeine into Code,keep myself informed with latest tech trends and happenings around the world.Stay self motivated and hence great to work with.</p></div><div class="col-lg-6"><p>Did a bit of competitive programming still putting my brain into it. Visit my HackerEarth profile @ https://www.hackerearth.com/@nsniteshsahni/activity/hackerearth/</p>
 <p>A gamer by heart,try to scrutinize my intelligence &amp; filled with never give up spirit.</p></div>           
         </div>
     </div>
@@ -325,7 +325,7 @@
                     </ul>
                 </div>
                 <div class="footer-col col-md-4">
-                    <p><strong>If contact me doesn't work,ping me&nbsp;@ nsniteshsahni@hotmail.com</strong></p>
+                    <p><strong>If contact me doesn't work,ping me&nbsp;@ info@niteshsahni.xyz</strong></p>
 <p>Bootstrap is used as frontend,The backend admin portal is developed in ASP.NET.For source code,visit my github profile.</p>
 <p><strong></strong><em></em><strong></strong></p>
                 </div>
@@ -335,13 +335,13 @@
     <div class="footer-below">
         <div class="container">
             <div class="row">
-                <div class="col-lg-3">
-					Download Resume <a href="http://nsportfolio.azurewebsites.net/" target="_blank">Click Here</a>
-				</div>
 				<div class="col-lg-3">
 					Developed By <a href="http://nsportfolio.azurewebsites.net/" target="_blank">Nitesh Sahni</a>
 				</div>
-				<div class="col-lg-6 copyright">
+                <div class="col-lg-3">
+                    Download Resume <a href="http://nsportfolio.azurewebsites.net/" target="_blank">Click Here</a>
+                </div>
+                <div class="col-lg-6 copyright">
                     Copyright &copy; Nitesh Sahni
                 </div>
             </div>
