@@ -57,6 +57,60 @@
         </div>
         <div class="row">
             <div class="col-sm-4 portfolio-item">
+    <a href="#portfolioModal10" class="portfolio-link" data-toggle="modal">
+        <div class="caption">
+            <div class="caption-content">
+                <i class="fa fa-search-plus fa-3x"></i>
+            </div>
+        </div>
+        <img src="Images/Portfolio/city.png" class="img-responsive" alt="">
+    </a>
+</div><div class="col-sm-4 portfolio-item">
+    <a href="#portfolioModal9" class="portfolio-link" data-toggle="modal">
+        <div class="caption">
+            <div class="caption-content">
+                <i class="fa fa-search-plus fa-3x"></i>
+            </div>
+        </div>
+        <img src="Images/Portfolio/BPIT.png" class="img-responsive" alt="">
+    </a>
+</div><div class="col-sm-4 portfolio-item">
+    <a href="#portfolioModal8" class="portfolio-link" data-toggle="modal">
+        <div class="caption">
+            <div class="caption-content">
+                <i class="fa fa-search-plus fa-3x"></i>
+            </div>
+        </div>
+        <img src="Images/Portfolio/Zombie.png" class="img-responsive" alt="">
+    </a>
+</div><div class="col-sm-4 portfolio-item">
+    <a href="#portfolioModal7" class="portfolio-link" data-toggle="modal">
+        <div class="caption">
+            <div class="caption-content">
+                <i class="fa fa-search-plus fa-3x"></i>
+            </div>
+        </div>
+        <img src="Images/Portfolio/UWP.png" class="img-responsive" alt="">
+    </a>
+</div><div class="col-sm-4 portfolio-item">
+    <a href="#portfolioModal6" class="portfolio-link" data-toggle="modal">
+        <div class="caption">
+            <div class="caption-content">
+                <i class="fa fa-search-plus fa-3x"></i>
+            </div>
+        </div>
+        <img src="Images/Portfolio/suggest.jpg" class="img-responsive" alt="">
+    </a>
+</div><div class="col-sm-4 portfolio-item">
+    <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
+        <div class="caption">
+            <div class="caption-content">
+                <i class="fa fa-search-plus fa-3x"></i>
+            </div>
+        </div>
+        <img src="Images/Portfolio/keylog.png" class="img-responsive" alt="">
+    </a>
+</div><div class="col-sm-4 portfolio-item">
     <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
         <div class="caption">
             <div class="caption-content">
@@ -144,7 +198,7 @@
                         <h2>telepy IoT bot</h2>
                         <hr class="star-primary">
                         <img src="Images/Portfolio/cake.png" class="img-responsive img-centered" alt="">
-                        <p><p>A telegram chat bot hosted on Raspberry pi for automation of it. User can interact with it in order to fetch data from cloud,Send remote commands,etc. and get results.The feature I am currently working on is adding and downloading torrents remotely.</p></p>
+                        <p><p>A telegram chat bot hosted on Raspberry pi for automation of it. User can interact with it in order to fetch data from cloud,Send remote commands,etc. and get results.The feature I am currently working on adding and downloading torrents remotely.</p></p>
                         <ul class="list-inline item-details">
                             <li>Client:
                                 <strong><a href="http://github.com/nsniteshsahni/telepy" target="_blank">Major Project</a></strong>
@@ -220,6 +274,204 @@
                             </li>
                             <li>Service:
                                 <strong><a href="http://github.com/nsniteshsahni/ResultPy" target="_blank">Python,Automation</a></strong>
+                            </li>
+                        </ul>
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <h2>KeyPy</h2>
+                        <hr class="star-primary">
+                        <img src="Images/Portfolio/keylog.png" class="img-responsive img-centered" alt="">
+                        <p><p>It is a simple keylogger application written in python<strong></strong><em></em></p></p>
+                        <ul class="list-inline item-details">
+                            <li>Client:
+                                <strong><a href="http://github.com/nsniteshsahni/KeyPy" target="_blank">Mini Project</a></strong>
+                            </li>
+                            <li>Date:
+                                <strong><a href="http://github.com/nsniteshsahni/KeyPy" target="_blank">May 2016</a></strong>
+                            </li>
+                            <li>Service:
+                                <strong><a href="http://github.com/nsniteshsahni/KeyPy" target="_blank"></a></strong>
+                            </li>
+                        </ul>
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <h2>ASE</h2>
+                        <hr class="star-primary">
+                        <img src="Images/Portfolio/suggest.jpg" class="img-responsive img-centered" alt="">
+                        <p>ASE is an abbr. for Auto Suggestion Engine written in python.No more incorrect spellings/words, just import AutoSuggest.py file to your project to get started</p>
+                        <ul class="list-inline item-details">
+                            <li>Client:
+                                <strong><a href="https://github.com/nsniteshsahni/ASE" target="_blank">Mini Project</a></strong>
+                            </li>
+                            <li>Date:
+                                <strong><a href="https://github.com/nsniteshsahni/ASE" target="_blank">June 2016</a></strong>
+                            </li>
+                            <li>Service:
+                                <strong><a href="https://github.com/nsniteshsahni/ASE" target="_blank"></a></strong>
+                            </li>
+                        </ul>
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div class="portfolio-modal modal fade" id="portfolioModal7" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <h2>Zombie Shooter UWP</h2>
+                        <hr class="star-primary">
+                        <img src="Images/Portfolio/UWP.png" class="img-responsive img-centered" alt="">
+                        <p>A 2D third person shooter UWP (Universal Windows Platform) game developed in JS.Test your aiming skills,check out it @ Windows Store</p>
+                        <ul class="list-inline item-details">
+                            <li>Client:
+                                <strong><a href="https://github.com/nsniteshsahni/Zombie-Shooter-UWP" target="_blank">Game Dev</a></strong>
+                            </li>
+                            <li>Date:
+                                <strong><a href="https://github.com/nsniteshsahni/Zombie-Shooter-UWP" target="_blank">July 2016</a></strong>
+                            </li>
+                            <li>Service:
+                                <strong><a href="https://github.com/nsniteshsahni/Zombie-Shooter-UWP" target="_blank"></a></strong>
+                            </li>
+                        </ul>
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div class="portfolio-modal modal fade" id="portfolioModal8" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <h2>Zombie Shooter Crosswalk</h2>
+                        <hr class="star-primary">
+                        <img src="Images/Portfolio/Zombie.png" class="img-responsive img-centered" alt="">
+                        <p>A hybrid crosswalk android app for Zombie Shooter game</p>
+                        <ul class="list-inline item-details">
+                            <li>Client:
+                                <strong><a href="https://github.com/nsniteshsahni/Zombie-Shooter-Crosswalk" target="_blank">Game Dev</a></strong>
+                            </li>
+                            <li>Date:
+                                <strong><a href="https://github.com/nsniteshsahni/Zombie-Shooter-Crosswalk" target="_blank">July 2016</a></strong>
+                            </li>
+                            <li>Service:
+                                <strong><a href="https://github.com/nsniteshsahni/Zombie-Shooter-Crosswalk" target="_blank"></a></strong>
+                            </li>
+                        </ul>
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div class="portfolio-modal modal fade" id="portfolioModal9" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <h2>BPIT Attendance & Utilities</h2>
+                        <hr class="star-primary">
+                        <img src="Images/Portfolio/BPIT.png" class="img-responsive img-centered" alt="">
+                        <p>A comprehensive,aggregated app for BPIT students to access attendance,result,study material and much more.Just login with your student credentials once and forget the hassle of opening specific portals and websites again and again</p>
+                        <ul class="list-inline item-details">
+                            <li>Client:
+                                <strong><a href="https://github.com/akshats1/Attendence" target="_blank">Summer Training</a></strong>
+                            </li>
+                            <li>Date:
+                                <strong><a href="https://github.com/akshats1/Attendence" target="_blank">July 2016</a></strong>
+                            </li>
+                            <li>Service:
+                                <strong><a href="https://github.com/akshats1/Attendence" target="_blank"></a></strong>
+                            </li>
+                        </ul>
+                        <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div class="portfolio-modal modal fade" id="portfolioModal10" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+            <div class="lr">
+                <div class="rl">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2">
+                    <div class="modal-body">
+                        <h2>City Guide Pro</h2>
+                        <hr class="star-primary">
+                        <img src="Images/Portfolio/city.png" class="img-responsive img-centered" alt="">
+                        <p>An android application for navigating through city,gives information about all important and mostly used services at one place</p>
+                        <ul class="list-inline item-details">
+                            <li>Client:
+                                <strong><a href="https://github.com/nsniteshsahni/City-Guide-Pro" target="_blank">Android Dev</a></strong>
+                            </li>
+                            <li>Date:
+                                <strong><a href="https://github.com/nsniteshsahni/City-Guide-Pro" target="_blank">July 2016</a></strong>
+                            </li>
+                            <li>Service:
+                                <strong><a href="https://github.com/nsniteshsahni/City-Guide-Pro" target="_blank"></a></strong>
                             </li>
                         </ul>
                         <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
@@ -339,7 +591,7 @@
 					Developed By <a href="http://nsportfolio.azurewebsites.net/" target="_blank">Nitesh Sahni</a>
 				</div>
                 <div class="col-lg-3">
-                    Download Resume <a href="http://nsportfolio.azurewebsites.net/" target="_blank">Click Here</a>
+                    Download Resume <a href="https://drive.google.com/open?id=0B2Wc_7_rWL4UWEtfSExadzRJQWc" target="_blank">Click Here</a>
                 </div>
                 <div class="col-lg-6 copyright">
                     Copyright &copy; Nitesh Sahni
