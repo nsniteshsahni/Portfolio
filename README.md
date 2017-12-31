@@ -6,5 +6,5 @@ A compact collaboration of all my work
 - Backend is in ASP.NET,The complete admin panel for editing,adding data
 
 # Demo
-visit http://nsportfolio.azurewebistes.net and explore it
+visit http://nsportfolio.azurewebsites.net and explore it
 
